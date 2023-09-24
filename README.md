@@ -25,11 +25,11 @@ You are going to create a profile website from scratch using HTML only.
 - Don't forget to use the tag `li` to add each hobby to the list
 
   ```html
-  <ul>
+  <ol>
     <li>Hobby</li>
     <li>Hobby</li>
     <li>Hobby</li>
-  </ul>
+  </ol>
   ```
 
 - If you click on any hobby, it should take you to an image that represents it
